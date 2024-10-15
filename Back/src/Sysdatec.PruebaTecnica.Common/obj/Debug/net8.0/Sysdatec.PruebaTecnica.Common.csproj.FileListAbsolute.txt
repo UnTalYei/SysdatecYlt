@@ -1,0 +1,12 @@
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Common.deps.json
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Common.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Common.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.csproj.AssemblyReference.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\refint\Sysdatec.PruebaTecnica.Common.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Common.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Common\obj\Debug\net8.0\ref\Sysdatec.PruebaTecnica.Common.dll

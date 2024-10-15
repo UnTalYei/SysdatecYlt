@@ -1,0 +1,15 @@
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Application.deps.json
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Application.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Application.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.csproj.AssemblyReference.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.CE34D560.Up2Date
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\refint\Sysdatec.PruebaTecnica.Application.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Application.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Application\obj\Debug\net8.0\ref\Sysdatec.PruebaTecnica.Application.dll

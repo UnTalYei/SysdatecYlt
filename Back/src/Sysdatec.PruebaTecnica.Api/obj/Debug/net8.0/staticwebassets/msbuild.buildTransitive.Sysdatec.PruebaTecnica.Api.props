@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Sysdatec.PruebaTecnica.Api.props" />
+</Project>

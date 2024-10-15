@@ -1,0 +1,11 @@
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.deps.json
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\bin\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.AssemblyInfoInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.AssemblyInfo.cs
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.csproj.CoreCompileInputs.cache
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\refint\Sysdatec.PruebaTecnica.Domain.dll
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\Sysdatec.PruebaTecnica.Domain.pdb
+C:\Users\albar\OneDrive\Documentos\Yeison\Pruebas Empresas\Sysdatec\Sysdatec.PruebaTecnica\src\Sysdatec.PruebaTecnica.Domain\obj\Debug\net8.0\ref\Sysdatec.PruebaTecnica.Domain.dll

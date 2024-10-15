@@ -1,0 +1,44 @@
+[
+  {
+    "ContainingType": "Sysdatec.PruebaTecnica.Api.Controllers.UserController",
+    "Method": "Create",
+    "RelativePath": "api/v1/user/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Sysdatec.PruebaTecnica.Application.Database.User.Commands.CreateUser.CreateUserModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sysdatec.PruebaTecnica.Api.Controllers.UserController",
+    "Method": "GetAll",
+    "RelativePath": "api/v1/user/getAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Sysdatec.PruebaTecnica.Api.Controllers.UserController",
+    "Method": "GetById",
+    "RelativePath": "api/v1/user/getById/{userId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

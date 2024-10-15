@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6BwjxPwHcOU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\albar\\OneDrive\\Documentos\\Yeison\\Pruebas Empresas\\Sysdatec\\Sysdatec.PruebaTecnica\\src\\Sysdatec.PruebaTecnica.Common\\Sysdatec.PruebaTecnica.Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\albar\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

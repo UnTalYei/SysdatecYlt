@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "iWEpEhL6UTvhIjs6o/XqU4UWoJAL9pA2puEEoGhmcdE=",
+  "Source": "Sysdatec.PruebaTecnica.Api",
+  "BasePath": "_content/Sysdatec.PruebaTecnica.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
